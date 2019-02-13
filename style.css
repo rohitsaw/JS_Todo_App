@@ -1,0 +1,15 @@
+.header{
+margin-bottom: 2%;
+}
+body{
+  margin: 2%;
+  text-align: center;
+}
+li{
+  list-style-type: none;
+}
+.button, .checkbox{
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-bottom: 1em;
+}
